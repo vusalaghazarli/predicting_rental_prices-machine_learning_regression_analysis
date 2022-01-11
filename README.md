@@ -1,0 +1,2 @@
+# predicting_rental_prices-machine_learning_regression_analysis
+In this project I will be working with a real dataset provided by Codecademy + StreetEasy that contains a sample of 5,000 rentals listings in NYC. I am going to use Regression algorithms on a dataset to predict the rent of houses as a dependent variable based on the features of independent variables. Dataset: https://github.com/Codecademy/datasets/tree/master/streeteasy
